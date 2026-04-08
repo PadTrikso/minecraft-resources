@@ -417,7 +417,7 @@ community_chest:
 | 24 | Nowy Świat | Nieruchomość | Czerwony | 240 zł | 20 zł |
 | 25 | Dworzec Wschodni | Dworzec | – | 200 zł | 25 zł |
 | 26 | Ulica Puławska | Nieruchomość | Żółty | 260 zł | 22 zł |
-| 27 | Ulica Marszałkowska | Nieruchomość | Żółty | 260 zł | 22 zł |
+| 27 | Ulica Czerska | Nieruchomość | Żółty | 260 zł | 22 zł |
 | 28 | Wodociągi | Użyteczność | – | 150 zł | 4× kostka |
 | 29 | Ulica Belwederska | Nieruchomość | Żółty | 280 zł | 24 zł |
 | 30 | Idź do więzienia | Specjalne | – | – | – |
